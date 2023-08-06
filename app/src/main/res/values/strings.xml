@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="login">Login</string>
+    <string name="Register">Register</string>
+    <string name="title">Enter your information below.</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="register_now"><u>Register Now</u></string>
+    <string name="back_to_login"><u>Back to Login</u></string>
+    <string name="or_login_with">Or login with</string>
+</resources>
